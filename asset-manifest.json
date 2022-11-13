@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/studentCard/static/css/main.fc48c1c7.css",
+    "main.js": "/studentCard/static/js/main.2f125c38.js",
+    "static/js/787.a5d99fe2.chunk.js": "/studentCard/static/js/787.a5d99fe2.chunk.js",
+    "index.html": "/studentCard/index.html",
+    "main.fc48c1c7.css.map": "/studentCard/static/css/main.fc48c1c7.css.map",
+    "main.2f125c38.js.map": "/studentCard/static/js/main.2f125c38.js.map",
+    "787.a5d99fe2.chunk.js.map": "/studentCard/static/js/787.a5d99fe2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc48c1c7.css",
+    "static/js/main.2f125c38.js"
+  ]
+}
