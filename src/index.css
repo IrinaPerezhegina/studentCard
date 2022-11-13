@@ -1,0 +1,54 @@
+.error-msg {
+  color: red;
+  font-size: 13px;
+}
+
+.new{
+
+  z-index: 5;
+  position: absolute;
+  right: 5%;
+  top:-6%
+ 
+
+}
+.input {
+  position: relative;
+}
+
+.modalWindow{
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, .5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.modalСontent{
+  width: 400px;
+  background-color: #fff;
+}
+
+.modalHeader, .modalFooter {
+  padding: 10px;
+ 
+}
+
+.modalTitle {
+  margin: 0;
+}
+
+.modalBody{
+  padding: 10px;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+
+.btn-modal{
+
+  margin-left: 300px;
+}
